@@ -1,0 +1,21 @@
+.header {
+  grid-area: h;
+  background: rgb(40, 20, 255);
+  border-radius: 7px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+}
+
+.logo_text {
+  font-family: Roboto;
+  color: #fff;
+  font-size: 40px;
+  font-weight: bold;
+}
+
+.header_tools__log_out {
+  color: #fff;
+  font-size: 25px;
+}

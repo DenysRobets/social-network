@@ -1,0 +1,19 @@
+.nav {
+  grid-area: n;
+  background: rgb(40, 20, 255);
+  border-radius: 7px;
+  padding: 20px;
+}
+
+.nav :last-child {
+  margin-top: 30px;
+}
+.nav_link {
+  margin-bottom: 10px;
+}
+
+.nav_link a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
